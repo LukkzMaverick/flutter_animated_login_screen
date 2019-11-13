@@ -1,1 +1,1 @@
-Uma tela de login bonita, com uma imagem de fundo e um botão que contém uma animação bem legal
+Ainda falta a criação da próxima tela, juntamente com uma transição suave do vermelho para a tela
